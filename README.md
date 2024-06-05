@@ -44,7 +44,7 @@ El archivo nuclear_explosions.csv incluye información detallada sobre pruebas n
     * sklearn.feature_selection: Selección de características.
     * sklearn.ensemble: Modelos de bosque aleatorio.
 
-## contacto.
+## Contacto.
   > 🧑Bustamante Juárez Eduardo. 🔢 Matrícula: 10056926 📬eduardo.bustamantej@uaem.edu.mx
   > 🏫 Centro de Investigación en Ciencias (UAEM).
   > 🌐 [Datos almacenados en Carpeta Drive](https://drive.google.com/drive/folders/1ZwhPfvGgJbIhCbWhqReYbAZj4T_eAMTh?usp=sharing)
