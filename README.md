@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo predecir el rendimiento superior de una explosión nuclear y clasificar el tipo de explosión nuclear utilizando técnicas de machine learning. Utilizamos un archivo de datos denominado "nuclear_explosions.csv", que contiene información detallada sobre diversas pruebas nucleares.
 
-##Contenido del Archivo nuclear_explosions.csv
+## Contenido del Archivo nuclear_explosions.csv
 
 El archivo nuclear_explosions.csv incluye información detallada sobre pruebas nucleares, como:
 
